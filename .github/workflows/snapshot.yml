@@ -1,0 +1,37 @@
+name: Daily price snapshot
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 09:00 UTC daily
+  workflow_dispatch: {}     # allow manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Capture prices
+        env:
+          POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
+        run: python3 snapshot.py
+      - name: Commit updated history
+        run: |
+          git config user.name  "tcg-price-bot"
+          git config user.email "actions@github.com"
+          git add price-history.json tracked-cards.json
+          if git diff --cached --quiet; then
+            echo "No price changes to commit."
+          else
+            git commit -m "Price snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi

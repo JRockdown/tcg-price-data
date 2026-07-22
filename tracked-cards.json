@@ -1,0 +1,586 @@
+[
+ {
+  "id": "ecard3-146",
+  "name": "Charizard",
+  "set": "Skyridge",
+  "number": "146",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/ecard3/146.png"
+ },
+ {
+  "id": "ex6-105",
+  "name": "Charizard ex",
+  "set": "FireRed & LeafGreen",
+  "number": "105",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex6/105.png"
+ },
+ {
+  "id": "bw8-136",
+  "name": "Charizard",
+  "set": "Plasma Storm",
+  "number": "136",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/bw8/136.png"
+ },
+ {
+  "id": "xy2-108",
+  "name": "M Charizard-EX",
+  "set": "Flashfire",
+  "number": "108",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/xy2/108.png"
+ },
+ {
+  "id": "ex15-100",
+  "name": "Charizard \u2605 \u03b4",
+  "set": "Dragon Frontiers",
+  "number": "100",
+  "rarity": "Rare Holo Star",
+  "img": "https://images.pokemontcg.io/ex15/100.png"
+ },
+ {
+  "id": "me2-125",
+  "name": "Mega Charizard X ex",
+  "set": "Phantasmal Flames",
+  "number": "125",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/me2/125.png"
+ },
+ {
+  "id": "base1-4",
+  "name": "Charizard",
+  "set": "Base",
+  "number": "4",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/base1/4.png"
+ },
+ {
+  "id": "ex3-100",
+  "name": "Charizard",
+  "set": "Dragon",
+  "number": "100",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/ex3/100.png"
+ },
+ {
+  "id": "ex13-104",
+  "name": "Pikachu \u2605",
+  "set": "Holon Phantoms",
+  "number": "104",
+  "rarity": "Rare Holo Star",
+  "img": "https://images.pokemontcg.io/ex13/104.png"
+ },
+ {
+  "id": "sv8-238",
+  "name": "Pikachu ex",
+  "set": "Surging Sparks",
+  "number": "238",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/sv8/238.png"
+ },
+ {
+  "id": "pl2-112",
+  "name": "Pikachu",
+  "set": "Rising Rivals",
+  "number": "112",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/pl2/112.png"
+ },
+ {
+  "id": "pl2-114",
+  "name": "Surfing Pikachu",
+  "set": "Rising Rivals",
+  "number": "114",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/pl2/114.png"
+ },
+ {
+  "id": "sm12-241",
+  "name": "Pikachu",
+  "set": "Cosmic Eclipse",
+  "number": "241",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/sm12/241.png"
+ },
+ {
+  "id": "ex12-93",
+  "name": "Pikachu \u03b4",
+  "set": "Legend Maker",
+  "number": "93",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/ex12/93.png"
+ },
+ {
+  "id": "bw1-115",
+  "name": "Pikachu",
+  "set": "Black & White",
+  "number": "115",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/bw1/115.png"
+ },
+ {
+  "id": "swsh11tg-TG16",
+  "name": "Pikachu V",
+  "set": "Lost Origin Trainer Gallery",
+  "number": "TG16",
+  "rarity": "Rare Holo V",
+  "img": "https://images.pokemontcg.io/swsh11tg/TG16.png"
+ },
+ {
+  "id": "ex13-103",
+  "name": "Mewtwo \u2605",
+  "set": "Holon Phantoms",
+  "number": "103",
+  "rarity": "Rare Holo Star",
+  "img": "https://images.pokemontcg.io/ex13/103.png"
+ },
+ {
+  "id": "sm35-78",
+  "name": "Mewtwo-GX",
+  "set": "Shining Legends",
+  "number": "78",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/sm35/78.png"
+ },
+ {
+  "id": "ex7-99",
+  "name": "Rocket's Mewtwo ex",
+  "set": "Team Rocket Returns",
+  "number": "99",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex7/99.png"
+ },
+ {
+  "id": "sv10-231",
+  "name": "Team Rocket's Mewtwo ex",
+  "set": "Destined Rivals",
+  "number": "231",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/sv10/231.png"
+ },
+ {
+  "id": "ecard1-20",
+  "name": "Mewtwo",
+  "set": "Expedition Base Set",
+  "number": "20",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ecard1/20.png"
+ },
+ {
+  "id": "ex1-101",
+  "name": "Mewtwo ex",
+  "set": "Ruby & Sapphire",
+  "number": "101",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex1/101.png"
+ },
+ {
+  "id": "ex11-12",
+  "name": "Mewtwo \u03b4",
+  "set": "Delta Species",
+  "number": "12",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ex11/12.png"
+ },
+ {
+  "id": "gym2-14",
+  "name": "Rocket's Mewtwo",
+  "set": "Gym Challenge",
+  "number": "14",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/gym2/14.png"
+ },
+ {
+  "id": "sv8pt5-161",
+  "name": "Umbreon ex",
+  "set": "Prismatic Evolutions",
+  "number": "161",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/sv8pt5/161.png"
+ },
+ {
+  "id": "ecard2-H29",
+  "name": "Umbreon",
+  "set": "Aquapolis",
+  "number": "H29",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ecard2/H29.png"
+ },
+ {
+  "id": "ecard3-H30",
+  "name": "Umbreon",
+  "set": "Skyridge",
+  "number": "H30",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ecard3/H30.png"
+ },
+ {
+  "id": "ex10-112",
+  "name": "Umbreon ex",
+  "set": "Unseen Forces",
+  "number": "112",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex10/112.png"
+ },
+ {
+  "id": "ex11-17",
+  "name": "Umbreon \u03b4",
+  "set": "Delta Species",
+  "number": "17",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ex11/17.png"
+ },
+ {
+  "id": "neo2-13",
+  "name": "Umbreon",
+  "set": "Neo Discovery",
+  "number": "13",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/neo2/13.png"
+ },
+ {
+  "id": "col1-22",
+  "name": "Umbreon",
+  "set": "Call of Legends",
+  "number": "22",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/col1/22.png"
+ },
+ {
+  "id": "bw9-64",
+  "name": "Umbreon",
+  "set": "Plasma Freeze",
+  "number": "64",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/bw9/64.png"
+ },
+ {
+  "id": "ex6-108",
+  "name": "Gengar ex",
+  "set": "FireRed & LeafGreen",
+  "number": "108",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex6/108.png"
+ },
+ {
+  "id": "neo4-6",
+  "name": "Dark Gengar",
+  "set": "Neo Destiny",
+  "number": "6",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/neo4/6.png"
+ },
+ {
+  "id": "ecard1-13",
+  "name": "Gengar",
+  "set": "Expedition Base Set",
+  "number": "13",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ecard1/13.png"
+ },
+ {
+  "id": "gym1-14",
+  "name": "Sabrina's Gengar",
+  "set": "Gym Heroes",
+  "number": "14",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/gym1/14.png"
+ },
+ {
+  "id": "xy4-121",
+  "name": "M Gengar-EX",
+  "set": "Phantom Forces",
+  "number": "121",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/xy4/121.png"
+ },
+ {
+  "id": "pl4-97",
+  "name": "Gengar LV.X",
+  "set": "Arceus",
+  "number": "97",
+  "rarity": "Rare Holo LV.X",
+  "img": "https://images.pokemontcg.io/pl4/97.png"
+ },
+ {
+  "id": "sm9-53",
+  "name": "Gengar & Mimikyu-GX",
+  "set": "Team Up",
+  "number": "53",
+  "rarity": "Rare Holo GX",
+  "img": "https://images.pokemontcg.io/sm9/53.png"
+ },
+ {
+  "id": "base3-5",
+  "name": "Gengar",
+  "set": "Fossil",
+  "number": "5",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/base3/5.png"
+ },
+ {
+  "id": "ex6-104",
+  "name": "Blastoise ex",
+  "set": "FireRed & LeafGreen",
+  "number": "104",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex6/104.png"
+ },
+ {
+  "id": "bw8-137",
+  "name": "Blastoise",
+  "set": "Plasma Storm",
+  "number": "137",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/bw8/137.png"
+ },
+ {
+  "id": "base5-3",
+  "name": "Dark Blastoise",
+  "set": "Team Rocket",
+  "number": "3",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/base5/3.png"
+ },
+ {
+  "id": "ecard1-4",
+  "name": "Blastoise",
+  "set": "Expedition Base Set",
+  "number": "4",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ecard1/4.png"
+ },
+ {
+  "id": "ex14-2",
+  "name": "Blastoise \u03b4",
+  "set": "Crystal Guardians",
+  "number": "2",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ex14/2.png"
+ },
+ {
+  "id": "base1-2",
+  "name": "Blastoise",
+  "set": "Base",
+  "number": "2",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/base1/2.png"
+ },
+ {
+  "id": "sv3pt5-200",
+  "name": "Blastoise ex",
+  "set": "151",
+  "number": "200",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/sv3pt5/200.png"
+ },
+ {
+  "id": "base4-2",
+  "name": "Blastoise",
+  "set": "Base Set 2",
+  "number": "2",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/base4/2.png"
+ },
+ {
+  "id": "ecard3-H10",
+  "name": "Gyarados",
+  "set": "Skyridge",
+  "number": "H10",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ecard3/H10.png"
+ },
+ {
+  "id": "ex13-102",
+  "name": "Gyarados \u2605 \u03b4",
+  "set": "Holon Phantoms",
+  "number": "102",
+  "rarity": "Rare Holo Star",
+  "img": "https://images.pokemontcg.io/ex13/102.png"
+ },
+ {
+  "id": "gym2-13",
+  "name": "Misty's Gyarados",
+  "set": "Gym Challenge",
+  "number": "13",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/gym2/13.png"
+ },
+ {
+  "id": "gym2-5",
+  "name": "Giovanni's Gyarados",
+  "set": "Gym Challenge",
+  "number": "5",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/gym2/5.png"
+ },
+ {
+  "id": "ex13-8",
+  "name": "Gyarados \u03b4",
+  "set": "Holon Phantoms",
+  "number": "8",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ex13/8.png"
+ },
+ {
+  "id": "ex6-109",
+  "name": "Gyarados ex",
+  "set": "FireRed & LeafGreen",
+  "number": "109",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex6/109.png"
+ },
+ {
+  "id": "hgss1-123",
+  "name": "Gyarados",
+  "set": "HeartGold & SoulSilver",
+  "number": "123",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/hgss1/123.png"
+ },
+ {
+  "id": "xy9-123",
+  "name": "Gyarados-EX",
+  "set": "BREAKpoint",
+  "number": "123",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/xy9/123.png"
+ },
+ {
+  "id": "sv8pt5-156",
+  "name": "Sylveon ex",
+  "set": "Prismatic Evolutions",
+  "number": "156",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/sv8pt5/156.png"
+ },
+ {
+  "id": "g1-RC21",
+  "name": "Sylveon-EX",
+  "set": "Generations",
+  "number": "RC21",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/g1/RC21.png"
+ },
+ {
+  "id": "swsh9tg-TG14",
+  "name": "Sylveon V",
+  "set": "Brilliant Stars Trainer Gallery",
+  "number": "TG14",
+  "rarity": "Rare Holo V",
+  "img": "https://images.pokemontcg.io/swsh9tg/TG14.png"
+ },
+ {
+  "id": "swsh9tg-TG15",
+  "name": "Sylveon VMAX",
+  "set": "Brilliant Stars Trainer Gallery",
+  "number": "TG15",
+  "rarity": "Rare Holo VMAX",
+  "img": "https://images.pokemontcg.io/swsh9tg/TG15.png"
+ },
+ {
+  "id": "sm10-130",
+  "name": "Gardevoir & Sylveon-GX",
+  "set": "Unbroken Bonds",
+  "number": "130",
+  "rarity": "Rare Holo GX",
+  "img": "https://images.pokemontcg.io/sm10/130.png"
+ },
+ {
+  "id": "sm2-92",
+  "name": "Sylveon-GX",
+  "set": "Guardians Rising",
+  "number": "92",
+  "rarity": "Rare Holo GX",
+  "img": "https://images.pokemontcg.io/sm2/92.png"
+ },
+ {
+  "id": "bw5-109",
+  "name": "Gardevoir",
+  "set": "Dark Explorers",
+  "number": "109",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/bw5/109.png"
+ },
+ {
+  "id": "ex2-96",
+  "name": "Gardevoir ex",
+  "set": "Sandstorm",
+  "number": "96",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex2/96.png"
+ },
+ {
+  "id": "me1-178",
+  "name": "Mega Gardevoir ex",
+  "set": "Mega Evolution",
+  "number": "178",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/me1/178.png"
+ },
+ {
+  "id": "sv4pt5-233",
+  "name": "Gardevoir ex",
+  "set": "Paldean Fates",
+  "number": "233",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/sv4pt5/233.png"
+ },
+ {
+  "id": "ex15-93",
+  "name": "Gardevoir ex \u03b4",
+  "set": "Dragon Frontiers",
+  "number": "93",
+  "rarity": "Rare Holo EX",
+  "img": "https://images.pokemontcg.io/ex15/93.png"
+ },
+ {
+  "id": "dp3-131",
+  "name": "Gardevoir LV.X",
+  "set": "Secret Wonders",
+  "number": "131",
+  "rarity": "Rare Holo LV.X",
+  "img": "https://images.pokemontcg.io/dp3/131.png"
+ },
+ {
+  "id": "xy11-116",
+  "name": "Gardevoir-EX",
+  "set": "Steam Siege",
+  "number": "116",
+  "rarity": "Rare Secret",
+  "img": "https://images.pokemontcg.io/xy11/116.png"
+ },
+ {
+  "id": "ex11-6",
+  "name": "Gardevoir \u03b4",
+  "set": "Delta Species",
+  "number": "6",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/ex11/6.png"
+ },
+ {
+  "id": "sv6-214",
+  "name": "Greninja ex",
+  "set": "Twilight Masquerade",
+  "number": "214",
+  "rarity": "Special Illustration Rare",
+  "img": "https://images.pokemontcg.io/sv6/214.png"
+ },
+ {
+  "id": "sm10-107",
+  "name": "Greninja & Zoroark-GX",
+  "set": "Unbroken Bonds",
+  "number": "107",
+  "rarity": "Rare Holo GX",
+  "img": "https://images.pokemontcg.io/sm10/107.png"
+ },
+ {
+  "id": "sm10-117",
+  "name": "Greninja",
+  "set": "Unbroken Bonds",
+  "number": "117",
+  "rarity": "Rare Holo",
+  "img": "https://images.pokemontcg.io/sm10/117.png"
+ }
+]
